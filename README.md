@@ -15,11 +15,11 @@
 
 - My Arsenals
 
--### Excel
--### SQL
--### Power Bi
--### Tableau
--### R
--### SPSS(Statistical Package for Social Science)
--### Python
+- ### Excel
+- ### SQL
+- ### Power Bi
+- ### Tableau
+- ### R
+- ### SPSS(Statistical Package for Social Science)
+- ### Python
 
