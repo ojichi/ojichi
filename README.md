@@ -1,6 +1,6 @@
-- ### Hi there
+- ### Hi there,
 
-##I’m @ojichi
+ - ## i'm ojichi
 
 - ## I’m a Data Analyst/Business Intelligence Analyst
 - 🌱 I’m currently learning ...
