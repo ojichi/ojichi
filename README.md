@@ -1,6 +1,6 @@
 - ### Hi there,
 
- - ## i'm ojichi
+ - ## i'm Oji Chisom
 
 - ## I’m a Data Analyst/Business Intelligence Analyst
 - 🌱 I’m currently learning ...
