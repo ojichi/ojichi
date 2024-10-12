@@ -1,6 +1,6 @@
 - ### Hi there,
 
- - ## I'm Oji Chisom
+ - ## I'm Oji Chisom Chukwuma
 
 - ## I’m a Data Analyst/Business Intelligence Analyst
 - 🌱 I’m currently learning ...
