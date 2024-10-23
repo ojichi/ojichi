@@ -9,7 +9,7 @@
 - 💞️ I’m looking to collaborate with companies, organizations or even individuals to solve their business problems by leveraging data.
 - 📫 How to reach me ...
 - 😄 Pronouns: He 
-- ⚡ Fun fact: I love to speak publicly and guide you on how to develop tech skills.
+- ⚡ Fun fact: I love to speak publicly and guide individuals on how to develop tech skills.
 
 
 
