@@ -10,6 +10,7 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: He 
 - ⚡ Fun fact: I love to speak publicly and guide individuals on how to develop tech skills.
+  
 
 
 
